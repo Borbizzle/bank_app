@@ -27,6 +27,18 @@ dependencies:
 
   cupertino_icons: ^1.0.1
   flutter_sparkline: ^0.1.0
+  google_fonts: ^3.0.1
+  flutter_launcher_icons: ^0.10.0
+  chart_sparkline: ^1.0.11
+  blobs: ^2.0.0
+  awesome_card: ^1.1.7
+
+flutter_icons:
+  image_path: "assets/ images/appstore.png"
+  #image_path_android: "assets/ images/android/appstore.png"
+  #image_path_ios: "assets/ images/ios/appstore.png"
+  android: true
+  ios: true
 
 dev_dependencies:
   flutter_test:
